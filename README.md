@@ -8,4 +8,4 @@ React
 
 ### License
 
-Academic Free License v3.0 license keywords ajl-3.0
+Academic Free License v3.0 license keywords afl-3.0
