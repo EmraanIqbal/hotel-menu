@@ -13,7 +13,7 @@ function App() {
       setMenuItems(items);
       return;
     }
-    let newItems = items.filter((item) => item.category === category);
+    const newItems = items.filter((item) => item.category === category);
     setMenuItems(newItems);
   };
 
