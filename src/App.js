@@ -13,7 +13,9 @@ function App() {
       setMenuItems(data);
       return;
     }
-    const filterItems = items.filter((item) => item.category === category);
+    const filterItems = items.filter(
+      (product) => product.category === category
+    );
     setMenuItems(filterItems);
   };
 
