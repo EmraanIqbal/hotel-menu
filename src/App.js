@@ -13,8 +13,8 @@ function App() {
       setMenuItems(items);
       return;
     }
-    const newItems = items.filter((item) => item.category === category);
-    setMenuItems(newItems);
+    const filterItems = items.filter((item) => item.category === category);
+    setMenuItems(filterItems);
   };
 
   return (
