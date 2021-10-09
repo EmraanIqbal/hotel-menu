@@ -1,6 +1,6 @@
 ### Menu
 
-Menu is a simple prject which shows the list of menus and when you clicked on button you get the diferent menus of that time like Breakfast, Lunch, Juices
+Menu is a simple project which shows the list of menus and when you clicked on button you get the different menus of that time like Breakfast, Lunch, Juices etc.
 
 ### Technology
 
